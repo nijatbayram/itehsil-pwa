@@ -1,0 +1,13 @@
+
+{
+  "name": "iTƏHSİL — Elektron Jurnal",
+  "short_name": "iTƏHSİL",
+  "description": "iTƏHSİL Elektron Jurnal İdarəetmə Platforması",
+  "id": "/itehsil-pwa/",
+  "start_url": "/itehsil-pwa/",
+  "scope": "/itehsil-pwa/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "lang": "az"
+}
